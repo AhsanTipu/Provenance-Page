@@ -1,0 +1,155 @@
+@media (min-width:360px) and (max-width : 767px){
+    #sea{
+        display: none;
+    }
+    #foo{
+        margin-top: 0px;
+        padding-left: 51px;
+    }
+    .check_icons{
+        top: 0%;
+        margin-left: 30px;
+    }
+    #why{
+        margin-top: -56px;
+    }
+    .insp{
+font-size: 14px;
+    }
+    .maps{
+        width: 300px;
+        height: 300px;
+    }
+    .lg\:w-2\/5{
+        width: 100% !important;
+    }
+#about{
+    height: 836px;
+}
+.overlayf{
+    height: 836px;
+
+}
+.imgft{
+    margin: auto;
+}
+#nbv{
+    margin-left: 34px;
+}
+.ppz{
+    padding-left: 55px;
+    font-size: 14px;
+}
+#hero{
+    display: none;
+}
+
+#mnav{
+    display: block;
+}
+#proa{
+    background-image: url("../assets/Photo\ 21-04-2021\,\ 11\ 44\ 09\ AM.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    margin-top: 15px;
+}
+.overlaym{
+    background-color: rgba(0,0,0,0.5); 
+    height: 300px;
+    
+}
+#imn{
+    height: 300px;
+}
+.mh1{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+
+}
+.mp1{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+font-size: 14px;
+}
+.ovc{
+position: absolute;
+top: 15%;
+padding: 34px;
+}
+#menuh{
+    height: 400px;
+    margin-bottom: 30px;
+}
+#proa{
+    display: block;
+}
+.pframe{
+    margin-left: 0px;
+      }
+      #ttmb{
+          margin-left: 73px;
+      }
+      .next{
+        right: 19px;
+        top: 119px;
+      }
+      .prev{
+          top: 45%;
+      }
+}
+
+@media only screen 
+and (min-width: 768px) and (max-width: 1200px) 
+ {
+#sea{
+    margin-left: 0px;
+}
+.whf{
+    font-size: 16px;
+}
+.maps {
+    width: 352px;
+    height: 352px;
+    margin-top: 36px;
+ }
+}
+
+@media only screen 
+and (min-width: 768px) and (max-width: 1023px) 
+{
+    #ttmb{
+        margin-left: 72px;
+    }
+    .leading-relaxed {
+        line-height: 1.2;
+        font-size: 12px;
+    }
+    .maps {
+        width: 245px;
+        height: 245px;
+        margin-top: 83px;
+    }
+    #about{
+        height: 586px;
+    }
+    .overlayf{
+        height: 586px;
+    }
+    .serd{
+        height: 245px;
+    }
+    .serda{
+        height: 245px;
+    }
+    #serimg{
+        height: 249px;
+    margin-top: -95px;
+    }
+    #seraimg{
+        margin-top: 67px;
+    height: 261px;
+    }
+}
